@@ -248,7 +248,7 @@ Also check the [setup documentation](#setup-process-detailed-documentation) for 
 
 ### Groups
 
-There are plenty off rooms you can find Raspiblitz users that can help you:
+There are plenty of chat rooms, where you can find Raspiblitz users who can help you:
 
 1. [Telegram English](https://t.me/raspiblitz)
 
